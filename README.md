@@ -1,5 +1,8 @@
 # Gene_Drive_Simulator_Public
-Results and graphs from analysis of our proprietary simulator
+Results and graphs from analysis of our proprietary simulator.
+
+A genetic disease can cause males of a mammalian population to carry a mutated that gene that renders newborn females infertile.
+This simulator checks to see how the spread of a genetic disease affects total population numbers for a period of time.
 
 For 80% success rate:
 ![](all_in_one_80.png)
